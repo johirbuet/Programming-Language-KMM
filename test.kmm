@@ -1,0 +1,4 @@
+printc "Hello World"
+printc "H"
+printc "My Name Is Johir"
+printc 10 + 65
